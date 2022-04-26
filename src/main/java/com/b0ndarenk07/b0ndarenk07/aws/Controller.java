@@ -1,4 +1,4 @@
-package com.b0ndarenk07.b0ndarenk07.aws.controller;
+package com.b0ndarenk07.b0ndarenk07.aws;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
